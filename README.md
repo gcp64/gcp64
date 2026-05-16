@@ -37,3 +37,11 @@ The system utilizes non blocking asynchronous loops to maintain real time operat
 * Global Leaderboard Rank 19 Git City
 * Total Automation Commits 404000
 * Base of Operations Al Anbar Iraq
+
+
+# ⚡ Welcome to the Command Center of Mr. Bob ⚡
+### System Architect | AI Orchestrator
+
+![Bob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gcp64&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gcp64&layout=compact&theme=tokyonight)
