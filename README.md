@@ -1,9 +1,8 @@
-
-
 > **System Architect | AI Orchestrator**
 > "Automating the impossible, orchestrating the future."
 
 ###  Global Leaderboard
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/gcp64.svg)](https://ghcommits.com/u/gcp64)
 ![Global Rank](https://img.shields.io/badge/Git_City_Rank-Top_8_Globally-FFEA00?style=for-the-badge&logo=github&logoColor=black)
 ![Automation Level](https://img.shields.io/badge/Automation_Level-Enterprise_Grade-00BFFF?style=for-the-badge&logo=dependabot&logoColor=white)
 
