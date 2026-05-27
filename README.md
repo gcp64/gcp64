@@ -1,15 +1,15 @@
 # Hi there, I'm Mr. Bob
 
-> **Lead Systems Architect & AI Engineer**  
-> *"Automating the impossible, orchestrating the future."*
+> **Lead Systems Architect & AI Engineer** > *"Automating the impossible, orchestrating the future."* > 📍 **Proudly representing Iraq 🇮🇶 | 🏆 Rank #7 Globally on Git City**
 
 ---
 
 ### Global Standing & Rank
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/gcp64.svg)](https://ghcommits.com/u/gcp64)  
-![Global Rank](https://img.shields.io/badge/Git_City_Rank-Top_8_Globally-FFEA00?style=for-the-badge&logo=github&logoColor=black)  
+![Global Rank](https://img.shields.io/badge/Git_City_Rank-Top_7_Globally-FFEA00?style=for-the-badge&logo=github&logoColor=black)  
 ![Automation Level](https://img.shields.io/badge/Automation_Level-Enterprise_Grade-00BFFF?style=for-the-badge&logo=dependabot&logoColor=white)
+![Country](https://img.shields.io/badge/Based_in-Iraq-007A33?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ---
 
