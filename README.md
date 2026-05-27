@@ -1,14 +1,18 @@
-# Hi there, I'm Mr. Bob
+# Hi there, I'm Mustafa Muthana Badi (Mr. Bob)
 
-> **Lead Systems Architect & AI Engineer** > *"Automating the impossible, orchestrating the future."* > 📍 **Proudly representing Iraq 🇮🇶 | 🏆 Rank #7 Globally on Git City**
+> **Lead Systems Architect & AI Orchestrator**  
+> *"Automating the impossible, orchestrating the future."*  
+> **Proudly representing Iraq | Rank #7 Globally on Git City**
 
 ---
 
-### Global Standing & Rank
+### Global Standing & Classifications
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/gcp64.svg)](https://ghcommits.com/u/gcp64)  
 ![Global Rank](https://img.shields.io/badge/Git_City_Rank-Top_7_Globally-FFEA00?style=for-the-badge&logo=github&logoColor=black)  
-![Automation Level](https://img.shields.io/badge/Automation_Level-Enterprise_Grade-00BFFF?style=for-the-badge&logo=dependabot&logoColor=white)
+![Automated Contributions](https://img.shields.io/badge/Automated_State_Changes-1.7M+-00C853?style=for-the-badge&logo=github&logoColor=white)  
+![Role](https://img.shields.io/badge/Role-AI_Orchestrator-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)  
+![Automation Level](https://img.shields.io/badge/Automation_Level-Enterprise_Grade-00BFFF?style=for-the-badge&logo=dependabot&logoColor=white)  
 ![Country](https://img.shields.io/badge/Based_in-Iraq-007A33?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ---
