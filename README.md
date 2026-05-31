@@ -1,4 +1,4 @@
-# Hi there, I'm Mustafa Muthana Badi (Mr. Bob)
+# Hi there, I'm Mustafa Muthana (Mr. Bob)
 
 > **Lead Systems Architect & AI Orchestrator**  
 > *"Automating the impossible, orchestrating the future."*  
