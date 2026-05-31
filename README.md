@@ -9,7 +9,7 @@
 ### Global Standing & Classifications
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/gcp64.svg)](https://ghcommits.com/u/gcp64)  
-![Global Rank](https://img.shields.io/badge/Git_City_Rank-Top_7_Globally-FFEA00?style=for-the-badge&logo=github&logoColor=black)  
+![Global Rank](https://img.shields.io/badge/Git_City_Rank-Top_5_Globally-FFEA00?style=for-the-badge&logo=github&logoColor=black)  
 ![Automated Contributions](https://img.shields.io/badge/Automated_State_Changes-1.7M+-00C853?style=for-the-badge&logo=github&logoColor=white)  
 ![Role](https://img.shields.io/badge/Role-AI_Orchestrator-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)  
 ![Automation Level](https://img.shields.io/badge/Automation_Level-Enterprise_Grade-00BFFF?style=for-the-badge&logo=dependabot&logoColor=white)  
