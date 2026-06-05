@@ -58,14 +58,6 @@ As an AI Orchestrator managing over 100 repositories, my focus is strictly on **
 
 ---
 
-### Enterprise Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Automated Commit Metrics" width="80%">
-</p>
-
----
-
 ### Strategic Collaboration
 I am continuously scaling local LLM architectures, automation pipelines, and full-stack system optimizations. 
 
