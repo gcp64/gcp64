@@ -1,4 +1,4 @@
-# Mustafa Muthana (Mr. Bob)
+# (Mr. Bob)
 
 > **Lead Systems Architect & Chief AI Orchestrator**  
 > *"I do not write code; I engineer AI agents that build the impossible."*  
