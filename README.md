@@ -19,66 +19,17 @@ Global Standing & Technical Profile
 
 Architectural Philosophy
 
-I focus on AI systems, automation, software architecture, game localization, data analysis, and interactive interface engineering.
+I focus on AI systems, automation, software architecture, game localization, data analysis, Discord systems, and high-performance local execution.
 
-My work combines local LLM inference, intelligent automation, full-stack development, Discord systems, game localization, analytical tooling, and modern interface design.
+My work combines local LLM inference, intelligent automation, full-stack development, game localization, analytical systems, and modern interface design. I am particularly interested in building efficient, self-contained systems that can operate locally while maintaining a clean and modern user experience.
 
-I am particularly interested in building efficient, self-contained systems that can operate locally while maintaining a clean and modern user experience.
+I also work on Arabic game localization, adapting games and their interfaces for Arabic-speaking audiences while maintaining consistency across UI elements, terminology, dialogue, and visual presentation.
 
-My design style combines Glassmorphism, Cyberpop, and game-inspired interactive aesthetics with practical backend architectures and performance-focused engineering.
+Another area of my work is Discord development, including custom bots, server automation, moderation systems, community utilities, role systems, and integrated backend workflows.
 
-I also experiment with Persona-inspired UI animations, interactive interfaces, motion design, and highly responsive visual systems, bringing game-like presentation and personality into modern web applications.
+My design approach combines Glassmorphism, Cyberpop, and game-inspired UI design, with a particular interest in highly animated interfaces inspired by titles such as Persona 5. I focus on motion, transitions, interactive elements, and visual feedback to make interfaces feel dynamic rather than static.
 
----
-
-Areas of Expertise
-
-AI & Automation
-
-- Local LLM inference
-- AI-assisted development
-- GGUF model workflows
-- Intelligent automation
-- AI integrations
-- Workflow optimization
-
-Game Localization
-
-- Arabic game localization
-- Arabic UI and dialogue translation
-- Localization-focused tooling
-- Game text processing
-- Localization workflow automation
-- Iraqi Arabic language adaptation
-
-Discord Systems
-
-- Discord bot development
-- Automated moderation systems
-- Community management systems
-- Custom Discord utilities
-- Automated content systems
-- Server economy and progression systems
-- API integrations and event-driven automation
-
-Data Analysis
-
-- Data analysis and visualization
-- Automated data processing
-- Statistical and behavioral analysis
-- Developer and project analytics
-- Data-driven system design
-- Custom analytical tools and dashboards
-
-UI & Interactive Design
-
-- Interactive UI systems
-- Persona-inspired interfaces
-- UI animation and motion design
-- Glassmorphism
-- Cyberpop aesthetics
-- Animated transitions and micro-interactions
-- Game-inspired web experiences
+I also work with data analysis and technical analysis, using structured data to understand systems, identify patterns, evaluate performance, and improve software workflows.
 
 ---
 
@@ -169,6 +120,86 @@ Technical Highlights
 
 ---
 
+Game Localization & Arabic Adaptation
+
+I also work on localizing games into Arabic, focusing on more than direct text translation.
+
+My localization workflow can involve:
+
+- Arabic UI localization
+- Game dialogue translation
+- Terminology consistency
+- UI text adaptation
+- Localization-friendly typography
+- Arabic interface layout adjustments
+- Context-aware translation
+- Maintaining the original game's tone and identity
+
+The goal is to make Arabic localization feel like a properly integrated version of the game, rather than simply replacing the original text.
+
+---
+
+Discord Systems & Automation
+
+I build custom Discord bots and server systems designed around automation and community management.
+
+Areas include
+
+- Custom Discord bots
+- Moderation systems
+- Automated workflows
+- Role and permission systems
+- Server economy systems
+- Activity and progression systems
+- Community utilities
+- Automated notifications
+- API integrations
+- Backend-driven Discord features
+
+I focus on building Discord systems that behave as complete platforms rather than simple command-based bots.
+
+---
+
+Data & Technical Analysis
+
+I work with data analysis and system analysis to understand complex technical systems and improve their performance.
+
+Areas include
+
+- Data processing
+- Performance analysis
+- System behavior analysis
+- Statistical and structured-data analysis
+- Automation analytics
+- Technical research
+- Visualization and reporting
+- Identifying patterns and optimization opportunities
+
+---
+
+Interactive UI & Motion Design
+
+I design interactive interfaces that combine functionality with strong visual identity.
+
+My UI work often incorporates game-inspired motion design, including concepts influenced by Persona 5 and other highly stylized interactive experiences.
+
+Focus areas
+
+- Animated UI components
+- Page transitions
+- Interactive navigation
+- Micro-interactions
+- Motion-driven interfaces
+- Dynamic backgrounds
+- Glassmorphism
+- Cyberpop aesthetics
+- Game-inspired interface systems
+- Responsive interactive layouts
+
+The goal is to create interfaces that feel alive and reactive, rather than simply displaying information.
+
+---
+
 Technologies
 
 ""My Skills" (https://skillicons.dev/icons?i=rust,python,react,ts,js,html,css,blender,firebase,discord,git,github,vscode,sublime&theme=dark)" (https://skillicons.dev)
@@ -177,7 +208,7 @@ Technologies
 
 Strategic Collaboration
 
-I am continuously working on local AI systems, automation pipelines, game localization, Discord infrastructure, data analysis, interactive UI systems, and full-stack software optimization.
+I am continuously working on local AI systems, automation pipelines, game localization, Discord infrastructure, data analysis, interactive UI, and full-stack software optimization.
 
 Areas of interest
 
@@ -185,14 +216,16 @@ Areas of interest
 - GGUF quantization
 - Windows system automation
 - AI-assisted development workflows
-- Game localization and Arabic adaptation
-- Discord bot and community systems
-- Data analysis and visualization
 - Full-stack architecture
-- Interactive UI engineering
-- Persona-inspired UI animation
-- Glassmorphic and Cyberpop interfaces
+- Game localization and Arabic adaptation
+- Discord bot and server systems
+- Data and technical analysis
+- Glassmorphic UI design
+- Interactive motion design
+- Persona-inspired UI animations
 - AI integration with creative tools
+
+---
 
 Connect
 
