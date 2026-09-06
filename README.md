@@ -1,80 +1,66 @@
-# Mr. Bob
+# Mr. Bob (gcp64)
 
 **Systems Architect & AI Orchestrator**  
-*Focused on local LLM deployment, workflow automation pipelines, and responsive desktop/web systems.*  
-Based in Iraq.
+*Designing autonomous agent pipelines, offline inference engines, programmatic media workflows, and state-driven interactive user interfaces.*
 
 ---
 
-### Standing & Core Metrics
+### Core Metrics & Presence
 
 [![GitHub Commits](https://ghcommits.com/api/badge/gcp64.svg)](https://ghcommits.com/u/gcp64)
 ![Git City Rank](https://img.shields.io/badge/Git_City_Rank-Global_Rank_5-FFEA00?style=for-the-badge&logo=github&logoColor=black)
 ![Role](https://img.shields.io/badge/Role-Systems_Architect-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI_%26_Automation-00BFFF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI_Orchestration_%26_Local_Systems-00BFFF?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based_in-Iraq-007A33?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ---
 
-### Engineering Focus
+### Specializations & Architectural Focus
 
-* **Local AI Inference:** Architecting self-contained environments using GGUF quantization, local model orchestration, and low-latency offline execution.
-* **Workflow Automation & Tooling:** Developing programmatic media engines, automated Git tooling, and backend pipelines.
-* **Interface & Motion Systems:** Implementing stylized, state-driven interfaces using Glassmorphism and high-feedback motion design inspired by Persona 5.
-* **Game Localization & Adaptation:** Context-aware Arabic localization, handling bidirectional UI adjustments, custom typography, and in-game dialogue parity.
-* **System Observability:** Analyzing execution telemetry, structured data pipelines, and performance bottlenecks across desktop and distributed systems.
-
----
-
-### Featured Repositories
-
-#### [AI BOB — Local Windows Assistant](https://github.com/gcp64/AI-BOB)
-Desktop environment built for offline LLM execution and local OS integration.
-* Fully offline inference pipeline supporting GGUF quantizations.
-* Native Windows API integration with dynamic memory allocation.
-* Localized Arabic and Iraqi dialect natural language processing.
-* HTML5/CSS Glassmorphic runtime interface.
-
-#### [NovaTok](https://github.com/gcp64/NovaTok)
-Programmatic video rendering engine powered by Remotion and React.
-* Automated multi-track asset stitching and dynamic composition.
-* Command-line asset transformation and export pipelines.
-* Scalable composition templates for programmatic media creation.
-
-#### [Cyberpop AI Git CLI](https://github.com/gcp64/cyberpop-git)
-Terminal utility integrating local LLMs directly into Git workflows.
-* Automated changelog generation and semantic commit synthesis.
-* Lightweight terminal UI built with a Cyberpop aesthetic.
-* Completely local execution ensuring credentials and diffs remain on-device.
-
-#### [NovaDragon & Nova WuWa](https://github.com/gcp64/NovaDragon_Final_Release)
-Performance monitoring and telemetry overlays for gaming environments.
-* Low-overhead runtime overlays and HUD telemetry visualization.
-* Game asset parsing and localized reference systems.
-* Optimized frame-budget friendly rendering.
-
-#### [Blender AI Copilot](https://github.com/gcp64/Blender-Copilot)
-Bridge connecting language models with 3D procedural workflows in Blender.
-* Automated Python script generation for scene setup and geometry nodes.
-* Headless execution pipelines for procedural asset compilation.
-
-#### [AnimePaint Maria](https://github.com/gcp64/AnimePaint-Maria)
-Focused raster application optimized for lightweight hardware and right-to-left UI.
-* Native Arabic interface with adapted RTL canvas controls.
-* Minimal resource footprint optimized for resource-constrained systems.
+* **AI Agent Orchestration & Local Inference:** Directing multi-agent coding workflows to assemble complex backends, paired with on-device GGUF/offline LLM pipelines requiring zero external API dependencies.
+* **Programmatic Media & Video Engines:** Designing automated video rendering pipelines, dynamic timeline synthesis, and headless asset transformation workflows.
+* **Reactive Interface & Motion Engineering:** Constructing dynamic, feedback-heavy user interfaces influenced by *Persona 5*, Cyberpop visual aesthetics, and glassmorphism.
+* **Game Localization & Bidirectional UI:** Comprehensive game adaptation workflows covering context-aware translation, Arabic typography rendering, and right-to-left UI recalculation.
+* **System Auditing & Data Pipeline Engineering:** Performing web security reviews, high-throughput record auditing, and data structure verification.
 
 ---
 
-### Technical Stack
+### Flagship Projects
 
-[![My Skills](https://skillicons.dev/icons?i=rust,python,react,ts,js,html,css,blender,firebase,discord,git,github,vscode,sublime&theme=dark)](https://skillicons.dev)
-
-* **Systems & Logic:** Rust, Python, TypeScript, Node.js
-* **Frontend & Runtimes:** React, Remotion, HTML5/CSS3, Electron
-* **Pipelines & Tools:** Git, Blender Python API, Local LLM Tooling (GGUF, Llama.cpp)
+| Project | Core Domain | Architectural Highlights |
+| :--- | :--- | :--- |
+| **[AI BOB](https://github.com/gcp64/AI-BOB)** | Desktop AI Assistant | Local-first runtime, offline GGUF model execution, native Windows API hooks, dynamic memory handling, and Arabic/Iraqi dialect processing. |
+| **[NovaTok](https://github.com/gcp64/NovaTok)** | Media Automation | Programmatic video generation platform built with Remotion and React; handles automated asset sequencing and pipeline rendering. |
+| **[Threads City](https://github.com/gcp64)** | Interactive Web Architecture | Interactive visualizer and dynamic community graph platform deployed on Cloudflare edge infrastructure. |
+| **[Cyberpop AI Git CLI](https://github.com/gcp64/cyberpop-git)** | Developer Tooling | Terminal Git utility combining local LLM commit synthesis, automated change analysis, and a stylized Cyberpop interface. |
+| **[iraq-results-audit-2026](https://github.com/gcp64/iraq-results-audit-2026)** | Data & Security Auditing | High-throughput data parsing and verification engine built for auditing large-scale educational test distributions. |
+| **[NovaDragon & Nova WuWa](https://github.com/gcp64/NovaDragon_Final_Release)** | Game Telemetry & UI | In-game analytical overlay, telemetry capture, and localized documentation hub optimized for zero frame drops. |
+| **[Blender AI Copilot](https://github.com/gcp64/Blender-Copilot)** | 3D Pipeline Automation | Bridge linking local LLMs to Blender’s Python API for procedural scene staging, node setup, and automated rendering. |
+| **[AnimePaint Maria](https://github.com/gcp64/AnimePaint-Maria)** | Creative Software | Lightweight raster graphics tool built with native RTL (Arabic) canvas adaptation and minimal memory footprint. |
+| **[Re:Zain & RamBooster Pro](https://github.com/gcp64)** | OS Optimization & Media | Standalone utilities for memory allocation tuning and rapid media stream transformation. |
 
 ---
 
-### Contact & Collaboration
+### Technical Stack & Toolchain
 
-Open to technical inquiries, architectural audits, and open-source collaboration. Open an issue on [GitHub](https://github.com/gcp64) or review the source code of active repositories.
+[![Tech Stack](https://skillicons.dev/icons?i=rust,python,react,ts,js,cpp,cs,html,css,blender,firebase,supabase,cloudflare,discord,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+* **Architecture & Systems:** Agentic Development Workflows, Distributed Pipelines, Local GGUF Inference, Event-Driven Architecture.
+* **Languages & Core Environments:** Python, Rust, TypeScript, JavaScript, C++, C#, Node.js.
+* **Frontend, Runtimes & Frameworks:** React, Remotion, Electron, PyQt6, FastAPI, Tailwind CSS.
+* **Infrastructure & Data:** Cloudflare Workers/Pages, Supabase, Firebase, DisCloud, Render.
+* **Specialized Utilities:** Blender Python API, OBS Telemetry, Git Automation Tooling.
+
+---
+
+### Engineering Principles
+
+1. **Orchestration Over Manual Writing:** Maximum leverage through high-level systems design, automated verification pipelines, and agent coordination.
+2. **Local-First & Offline Resilience:** Building software that continues to compute, analyze, and assist even when completely severed from the cloud.
+3. **High-Feedback Interfaces:** Interfaces must be alive; every action should yield immediate visual feedback, spatial depth, and fluid motion.
+
+---
+
+### Connect
+
+Inquiries, security disclosures, and architectural discussions can be initiated via [GitHub Issues](https://github.com/gcp64) across any active repository.
